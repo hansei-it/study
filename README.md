@@ -4,3 +4,5 @@
 
 [2021-2022년 겨울방학 스터디 위키](https://github.com/hansei-it/study/wiki) <br>
 [2020-2021년 겨울방학 스터디 위키](https://github.com/hansei-it/study/wiki)
+
+![](https://github.com/hansei-it/study/blob/hansei-it/cd/Image/IT%ED%95%99%EB%B6%80SW%ED%95%99%EC%8A%B5%EC%B6%94%EC%B2%9C%EB%A1%9C%EB%93%9C%EB%A7%B5v0.5.png)
